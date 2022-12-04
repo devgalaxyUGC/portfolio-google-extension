@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "NewFontFamily",
+    "description": "Customize your fonts",
+    "version": "1.0.0-alpha",
+    "permissions": [
+        "fontSettings"
+    ]
+}
